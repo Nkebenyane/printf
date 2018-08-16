@@ -1,2 +1,2 @@
 # printf
-My own creation of c library functions, writen using unistd.h (in and out header for unix systems)
+MY own version of c stdio.h printf function
